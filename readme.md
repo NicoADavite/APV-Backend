@@ -2,4 +2,4 @@
 
 **Descripción de proyecto:**
 
-Proyecto de Backend realizado con Express y MongoDB - REST API - JWT.
+Proyecto de Backend realizado con Express y MongoDB - REST API - JWT - Nodemailer.
