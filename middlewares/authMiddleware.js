@@ -1,5 +1,6 @@
 import jwt from 'jsonwebtoken';
-import dotenv from "dotenv/config";
+import "dotenv/config";
+
 import Veterinario from '../db/models/Veterinario.js';
 
 const checkAuth = async ( req, res, next ) => { 
